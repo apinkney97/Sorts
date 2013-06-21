@@ -89,7 +89,7 @@ public class Sorts {
 						heapSort(nums);
 						break;
 					case 8:
-						Arrays.sort(nums);
+						Arrays.sort(nums); // Java's default sorting algorithm (Timsort?)
 						break;
 					case 9:
 						bogoSort(nums);

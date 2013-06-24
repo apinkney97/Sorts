@@ -45,7 +45,7 @@ public class Sorts {
 
 		System.err.println("Running sort #" + type);
 
-		for (int inputSize = 1; inputSize < 100000; inputSize++) {
+		for (int inputSize = 1; inputSize < 1000; inputSize++) {
 
 			int totalRuns = 1000;
 

@@ -21,3 +21,6 @@ A gnuplot .plt file is included, that attempts to plot files called 0.csv
 to 10.csv. This uses a log-log graph as otherwise it would be difficult to
 show all the data on one plot. Run with `gnuplot plotall.plt` -- a file called
 allplots.pdf will be created.
+
+Here's one I made earlier: http://eprg.org/allplots.pdf
+
